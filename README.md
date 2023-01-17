@@ -42,7 +42,7 @@ The app will be available for access on your browser at http://localhost:5174
 This project was developed with the following technologies:
 <b>
 - TypeScript
-- React
+- React Js
 </b>
 
 ## 📄 Project
