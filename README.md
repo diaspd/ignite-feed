@@ -33,7 +33,7 @@ $ npm i
 # Start the project
 $ npm run dev
 ```
-The app will be available for access on your browser at http://localhost:5174/
+The app will be available for access on your browser at http://localhost:5174
 
 <br></br>
 
