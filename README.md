@@ -1,19 +1,18 @@
 <h1 align="center">
-  Ignite Feed
+   Ignite Feed 
 </h1>
 
-<p align="center">
+<div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 
+</br>
 </br>
 
 <div align="center">
   <img alt="img" title="ignite-feed" src="img.png" width="100%" />
 </div>
-
-</br>
 
 ## 🚀 Getting started
 
