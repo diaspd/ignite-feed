@@ -7,8 +7,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-</br>
-</br>
+<br></br>
 
 <div align="center">
   <img alt="img" title="ignite-feed" src="img.png" width="100%" />
@@ -42,6 +41,8 @@ This project was developed with the following technologies:
 - TypeScript
 - ReactJs
 </b>
+
+<br></br>
 
 ## 📄 Project
 💰 A project like a feed of social network.
