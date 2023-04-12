@@ -42,7 +42,7 @@ This project was developed with the following technologies:
 - ReactJs
 </b>
 
-<br></br>
+</br>
 
 ## 📄 Project
 💰 A project like a feed of social network.
