@@ -7,7 +7,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<br></br>
+---
 
 <div align="center">
   <img alt="img" title="ignite-feed" src="./src/assets/template.png" width="100%" />
