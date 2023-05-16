@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 🔖 Layout
-- [Ignite Feed - Figma](https://www.figma.com/community/file/1127351821076435124)
+- [Ignite Feed - Figma](https://www.figma.com/file/Mib7HTO8tLYlxAFUbbbJtT/Ignite-Feed-(Community)?type=design&node-id=0-1&t=V8LTY8RJsAj2DLaI-0)
 
 <br></br>
 
