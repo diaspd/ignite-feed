@@ -5,6 +5,7 @@
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 ---
@@ -46,6 +47,11 @@ This project was developed with the following technologies:
 
 ## 📄 Project
 💰 A project like a feed of social network.
+
+</br>
+
+## 🔖 Layout
+- [Ignite Feed - Figma](https://www.figma.com/community/file/1127351821076435124)
 
 <br></br>
 
