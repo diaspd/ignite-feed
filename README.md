@@ -10,7 +10,7 @@
 <br></br>
 
 <div align="center">
-  <img alt="img" title="ignite-feed" src="./src/public/template.png" width="100%" />
+  <img alt="img" title="ignite-feed" src="./src/assets/template.png" width="100%" />
 </div>
 
 ## 🚀 Getting started
