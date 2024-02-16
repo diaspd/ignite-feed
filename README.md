@@ -2,7 +2,7 @@
    Ignite Feed 
 </h1>
 
-<h2 align="center">Link to site online: <a href="ignite-feed-diaspd.vercel.app" target="_blank">Ignite Feed</a> </h2>
+<h2 align="center">Link to site online: <a href="https://ignite-feed-diaspd.vercel.app" target="_blank">Ignite Feed</a> </h2>
 
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
