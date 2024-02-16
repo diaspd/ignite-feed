@@ -1,5 +1,6 @@
 {
   "name": "ignite-feed-ts",
+  "author": "pedro_dias",
   "private": true,
   "version": "0.0.0",
   "type": "module",
